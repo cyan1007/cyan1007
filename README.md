@@ -1,6 +1,6 @@
 # Yuri's Portfolio
 
-<img src="![Uploading image.png…]()
+<img src="[![Uploading image.png…]()](https://github.com/cyan1007/cyan1007/blob/main/profile.png?raw=true)
 
 " alt="Profile Image" width="200" />
 
