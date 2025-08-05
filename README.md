@@ -1,6 +1,6 @@
 # Yuri's Portfolio
 
-<img src="./images/profile.png" alt="Profile Image" width="200" />
+<img src="[./images/profile.png](https://github.com/cyan1007/port/raw/main/images/profile.png)" alt="Profile Image" width="200" />
 
 ---
 
